@@ -19,3 +19,17 @@
 2021-03-17 16:30:23.024 [main] INFO  calculator.App - Square root of 25.0 = 5.0
 2021-03-17 16:30:23.025 [main] INFO  calculator.App - 2.0 powers 5.0
 2021-03-17 16:30:23.025 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 19:20:46.027 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 19:20:46.030 [main] INFO  calculator.App - !5 = 120
+2021-03-17 19:20:46.034 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 19:20:46.034 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 19:20:46.035 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 19:20:46.036 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 19:20:46.036 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 19:35:43.223 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 19:35:43.227 [main] INFO  calculator.App - !5 = 120
+2021-03-17 19:35:43.231 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 19:35:43.232 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 19:35:43.233 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 19:35:43.234 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 19:35:43.234 [main] INFO  calculator.App - 2.0^5.0 = 32.0
